@@ -1,0 +1,10 @@
+.document {
+    background-color: white;
+    &--a4 {
+        height: 297px * 5;
+        width: 210px * 5;
+    }
+    .textbox {
+        width: 200px;
+    }
+}
